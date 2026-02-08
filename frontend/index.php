@@ -274,7 +274,7 @@ document.getElementById("addForm").addEventListener("submit", async e => {
             alert("Error: " + data.message);
         }
     } catch(err) { console.error(err); }
-});
+})  ;
 </script>
 
 </body>
