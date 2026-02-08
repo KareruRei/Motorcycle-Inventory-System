@@ -23,7 +23,7 @@ $cities = [
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MotoTrack // Logistics</title>
+  <title>Engine Search V.1.0</title>
 
   <link href="https://api.fontshare.com/v2/css?f[]=satoshi@900,700,500,300,400&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
@@ -110,7 +110,7 @@ $cities = [
         </svg>
     </div>
     <h3 class="text-lg font-black uppercase tracking-tighter">Engine Search</h3>
-    <p class="text-gray-400 text-[10px] font-bold uppercase tracking-widest mt-1 mb-6">Prototype Inventory System</p>
+    <p class="text-gray-400 text-[10px] font-bold uppercase tracking-widest mt-1 mb-6">Prototype V.1.0 of the actual</p>
     
     <div class="space-y-3">
         <a href="https://github.com/KareruRei/Motorcycle-Inventory-System" target="_blank" class="block w-full bg-brand-darkgray text-white text-[10px] font-black uppercase py-3 rounded-xl tracking-widest hover:bg-black transition-all">
